@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hassan Allah Ditta</h1>
 <h3 align="center">A passionate mobile app developer from Pakistan</h3>
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1603428/screenshots/4158705/mob-dev.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanasif557&label=Profile%20views&color=0e75b6&style=flat" alt="hassanasif557" /> </p>
 
 - 🔭 I’m currently working on [Flutter App Development](https://drive.google.com/file/d/1zt5Dz_a4zvAL_H2E0upue-oP-hFaPqdk/view?usp=drive_link)
