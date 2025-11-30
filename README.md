@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hassan allah ditta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan allah ditta" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/hassan allah ditta](https://www.linkedin.com/in/hassan-allah-ditta-4979541a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan allah ditta" height="30" width="40" /></a>
 <a href="https://fb.com/hassan axif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassan axif" height="30" width="40" /></a>
 <a href="https://instagram.com/hasi.axif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasi.axif" height="30" width="40" /></a>
 <a href="https://www.behance.net/hassanasif557#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/hassanasif15#" height="30" width="40" /></a>
