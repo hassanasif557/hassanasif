@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 💻 2+ years experience in **Flutter Mobile App Development**
+- 💻 4+ years experience in **Flutter Mobile App Development**
 - 🔄 Transitioning into **Full Stack Development (Backend + DevOps)**
 - ⚙️ Currently building scalable backends using **NestJS**
 - ☁️ Learning **DevOps & Cloud (Docker, CI/CD, Deployment)**
